@@ -1,0 +1,151 @@
+body {
+  margin: 0px auto;
+  font-family: Roboto, sans-serif;
+}
+
+.main_cont {
+  width: 100%;
+  max-width: 1219px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 55px;
+  padding-right: 55px;
+}
+
+.site_header {
+  width: 100%;
+  background-color: #007765;
+  height: 84px;
+  display: flex;
+  align-items: center;
+  position: fixed;
+}
+
+.navigation_cont {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.link {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  text-decoration: none;
+  color: #fff;
+}
+
+.section_1 {
+  background: url(green\ thingy.png) center;
+  background-size: cover;
+  padding-top: 210px;
+  padding-bottom: 150px;
+  align-items: center;
+}
+
+.main_title {
+  font-weight: 500;
+  font-size: 75px;
+  line-height: 84px;
+  text-align: center;
+  color: white;
+}
+
+.section_2 {
+  background-color: white;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.text_2 {
+  font-size: 24px;
+  line-height: 26px;
+}
+
+h1,
+h2 {
+  margin: 0;
+}
+
+.header_logo {
+  float: left;
+  padding-right: 48px;
+}
+
+.title {
+  margin-top: 48px;
+  color: #007765;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 75px;
+  text-align: center;
+}
+
+.message {
+  width: 100%;
+  font-size: 48px;
+  font-style: italic;
+  text-align: center;
+  font-weight: 500;
+  width: 100%;
+  color: white;
+}
+
+.section_3 {
+  background: url(blue\ thingy.png) center;
+  background-size: cover;
+  padding-top: 210px;
+  padding-bottom: 150px;
+  align-items: center;
+}
+
+.coin_logo {
+  float: left;
+  padding-right: 48px;
+  width: 108px;
+  height: 108px;
+}
+
+.text_4 {
+  font-style: normal;
+  font-size: 32px;
+  line-height: 40px;
+  color: black;
+}
+
+.section_5 {
+  background-color: #eeeeee;
+  padding-top: 20px;
+  padding-bottom: 70px;
+  text-align: center;
+  justify-content: space-around;
+}
+
+.table_main {
+  width: 98.5%;
+  margin-top: 20px;
+}
+
+.face {
+  width: 168px;
+  height: 168px;
+}
+
+.footer {
+  padding-top: 50px;
+  background-color: #333;
+  height: 100px;
+  text-align: center;
+}
+
+.text {
+  width: 540px;
+  height: 74px;
+  margin: 0 auto;
+  color: white;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: normal;
+}
